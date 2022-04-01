@@ -3,7 +3,8 @@ using namespace std;
 void main()
 {
 	cout << "hi ,i'm@Xiaopeng1027" << endl;
-	cout << "¹þ¹þ¹þ£¬ÕâÊÇÎÒÔÚgithubµÄµÚÒ»¸öÎÄ¼þ" << endl;
-	cout << "ÄãºÃ" << endl;
+	cout << "å“ˆå“ˆå“ˆï¼Œè¿™æ˜¯æˆ‘åœ¨githubçš„ç¬¬ä¸€ä¸ªæ–‡ä»¶" << endl;
+	cout << "ä½ å¥½" << endl;
 	system("pause");
 }
+*å“ˆå“ˆå“ˆ*
